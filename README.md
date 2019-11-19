@@ -10,3 +10,7 @@ far as possible and beat the high score.
 - There are some sample audio files in the audio folder.
 
 Enjoy!
+
+## Screen Capture
+
+![flappyDino](https://user-images.githubusercontent.com/54192886/69140172-45d8f100-0ac2-11ea-89eb-12343f572754.gif)
